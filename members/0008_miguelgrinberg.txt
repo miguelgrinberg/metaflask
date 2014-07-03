@@ -1,0 +1,9 @@
+Name: Miguel Grinberg
+Twitter: @miguelgrinberg
+Github: miguelgrinberg
+E-Mail: miguel.grinberg@gmail.com
+Sponsor: 
+
+Creator and maintainer of Flask-SocketIO, Flask-Migrate, Flask-HTTPAuth and
+several other extensions. Author of the Flask Mega-Tutorial blog series. Author
+of the book "Flask Web Development", published by O'Reilly Media.
